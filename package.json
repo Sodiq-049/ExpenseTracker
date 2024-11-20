@@ -1,0 +1,15 @@
+{
+  "name": "personal-expense-tracker",
+  "version": "1.0.0",
+  "description": "A simple personal expense tracker API built with Node.js",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "uuid": "^11.0.3"
+  },
+  "author": "Sodiq Ogunmola",
+  "license": "ISC"
+}
